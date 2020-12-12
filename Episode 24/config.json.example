@@ -1,0 +1,8 @@
+  
+{
+    "token": "Your bot token",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "default_prefix": ";",
+    "mongoose": "Your mongoose code"
+}
